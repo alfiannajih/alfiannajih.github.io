@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "ReviceGraph"
+excerpt: "Implementation of the G-Retriever Framework, combining LLM and Knowledge Graph, to assist in resume review by determining whether a resume matches the current job market, which is represented as a knowledge graph.<br/><img src='/images/revice-graph.png'>"
 collection: portfolio
 ---
 
