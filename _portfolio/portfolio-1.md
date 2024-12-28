@@ -1,6 +1,6 @@
 ---
 title: "ReviceGraph"
-excerpt: "Implementation of G-Retriever Framework to resume reviewer.<br/><img src='/images/revice-graph.png' width='580'>"
+excerpt: "Implementation of G-Retriever Framework for resume reviewer.<br/><img src='/images/revice-graph.png' width='580'>"
 collection: portfolio
 ---
 
