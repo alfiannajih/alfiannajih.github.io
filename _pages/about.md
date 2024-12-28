@@ -1,12 +1,12 @@
 ---
 permalink: /
+title: 🙋 Hi there
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# 🙋 Hi there
 🎓 I'm Alfian, a fresh graduate of Mathematics at Institut Teknologi Sepuluh Nopember.
 
 🔬 My main interest are Knowledge Graphs, Machine Leraning, and Data Science. I am passionate about both the theoretical foundations and the practical applications of these fields.

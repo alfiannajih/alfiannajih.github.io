@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "id-ID"
+locale                   : "en-EN"
 title                    : "Alfian Najih"
 title_separator          : ""
 name                     : &name "Bahrul Alfian Najih"
