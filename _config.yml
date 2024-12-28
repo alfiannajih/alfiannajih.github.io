@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Bahrul Alfian Najih"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Indonesia"
+  bio              : #
+  location         : "Surabaya, Indonesia"
   employer         : "Institut Teknologi Sepuluh Nopember"
   uri              : # URL
   email            : #"none@example.org" 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : bahrul-alfian-najih
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
