@@ -1,6 +1,6 @@
 ---
 title: "ReviceGraph"
-excerpt: "Implementation of the G-Retriever Framework, combining LLM and Knowledge Graph, to assist in resume review by determining whether a resume matches the current job market, which is represented as a knowledge graph.<br/><img src='/images/revice-graph.png'>"
+excerpt: "A submission for the final stage of Compfest 16 AIC, held by Universitas Indonesia. This Project implemented a G-Retriever Framework, combining LLM and Knowledge Graph, to reduce its hallucination and to assist in resume review by determining whether a candidate's resume matches the current job market need, which is represented as a Knowledge Graph.<br/><img src='/images/revice-graph.png'>"
 collection: portfolio
 ---
 
